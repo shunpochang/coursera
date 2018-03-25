@@ -1,3 +1,3 @@
-# coursera
-All exploration / hw for coursera classes 
-- Deep Learning courses
+# coursera classes
+All explorations / hw / quizes for coursera classes 
+- Deep Learning courses: contains all materials.
